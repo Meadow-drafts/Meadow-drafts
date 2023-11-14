@@ -1,4 +1,4 @@
-<h1 align="center">♠Heyyy👋 , I'm Shirley <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Heyyy👋 , I'm Shirley ♠ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <em>
     I'm a passionate software developer with a knack for turning ideas into reality through clean and efficient code. My journey in the world of technology has been fueled by a curiosity to solve real-world problems and create meaningful experiences.
