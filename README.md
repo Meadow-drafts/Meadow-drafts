@@ -16,12 +16,12 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-💻 Software Developer .
-🧠 Problem solver who enjoys tackling complex challenges.
-📚 Always learning and staying updated with the latest tech trends.
-🌱 Committed to continuous improvement and exploring new frameworks.
-🌐 Passionate about creating seamless, user-friendly web applications.
-🤝 Open to collaborations, discussions, and connecting with fellow developers.
+💻 Software Developer .<br>
+🧠 Problem solver who enjoys tackling complex challenges.<br>
+📚 Always learning and staying updated with the latest tech trends. <br>
+🌱 Committed to continuous improvement and exploring new frameworks.<br>
+🌐 Passionate about creating seamless, user-friendly web applications.<br>
+🤝 Open to collaborations, discussions, and connecting with fellow developers. <br>
 🚀 I believe in the power of collaboration to open-source projects, embracing collaborative development and i look forward to doing that. <br> <br>
 
 
